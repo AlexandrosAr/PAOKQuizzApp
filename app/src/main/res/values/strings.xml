@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">PAOKQuizApp</string>
+    <!--Intro textViews-->
+    <string name="quiz_theme">PAOK fan quiz!</string>
+    <string name="subtheme">How much you know about PAOK thessaloniki?</string>
+    <string name="name">Supporter Name</string>
+
+    <!-- Question text views-->
+    <!--Question 1-->
+    <string name="question1">Question 1</string>
+    <string name="question1_body">When was PAOK established?</string>
+    <string name="answer11">1924</string>
+    <string name="answer12">1925</string>
+    <string name="answer13">1926</string>
+    <string name="answer14">1927</string>
+
+    <!--Question 2-->
+    <string name="question2">Question 2</string>
+    <string name="question2_body">What is the name of PAOK stadium?</string>
+    <string name="answer21">Harilaou</string>
+    <string name="answer22">Leoforos</string>
+    <string name="answer23">Alcazar</string>
+    <string name="answer24">Toumba</string>
+
+    <!--Question 3-->
+    <string name="question3">Question 3</string>
+    <string name="question3_body">How many trophies has PAOK won?</string>
+    <string name="answer31">5</string>
+    <string name="answer32">6</string>
+    <string name="answer33">7</string>
+    <string name="answer34">8</string>
+
+    <!--Question 4-->
+    <string name="question4">Question 4</string>
+    <string name="question4_body">When was the last time PAOK won a trophy?</string>
+    <string name="answer41">2016/2017</string>
+    <string name="answer42">2015/2016</string>
+    <string name="answer43">2014/2015</string>
+    <string name="answer44">2013/2014</string>
+
+    <!--Question 5-->
+    <string name="question5">Question 5</string>
+    <string name="question5_body">In which of these seasons PAOK has won a trophy(more than one)?</string>
+    <string name="answer51">1999/2000</string>
+    <string name="answer52">2000/2001</string>
+    <string name="answer53">2001/2002</string>
+    <string name="answer54">2002/2003</string>
+
+    <!--Question 6-->
+    <string name="question6">Question 6</string>
+    <string name="question6_body">In which of these seasons PAOK has won the championship(more than one)?</string>
+    <string name="answer61">2002/2003</string>
+    <string name="answer62">1993/1994</string>
+    <string name="answer63">1984/1985</string>
+    <string name="answer64">1975/1976</string>
+
+    <!--Question 7-->
+    <string name="question7">Question 7</string>
+    <string name="question7_body">Which player has the most appearances in PAOK?</string>
+    <string name="answer71">Salpigidis</string>
+    <string name="answer72">Athanasiadis</string>
+    <string name="answer73">Toursounidis</string>
+    <string name="answer74">Malezas</string>
+
+
+    <!--Button texts-->
+    <string name="submit_button">submit</string>
+</resources>
